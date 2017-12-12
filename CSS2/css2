@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+div{
+	padding:10px;
+}
+
+table
+{
+	border-collapse:collapse;
+}
+body, html {
+    height: 100%;
+    margin: 0;
+}
+
+.background1 {
+    /* The image used */
+    background-image: url("https://www.xmple.com/wallpaper/black-lines-grey-stripes-streaks-1920x1080-c2-a9a9a9-000000-l2-33-33-a-300-f-1.svg");
+
+    /* Full height */
+    height: 100%; 
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.center {
+	margin:auto;
+}
+
+#corner1 {
+    border-radius: 25px;
+    background: #808080; 
+    width: 200px;
+    height: 150px;    
+}
+
+#corner2
+{
+	border-radius:25px;
+    width: 100px;
+    height:100px;
+}
+</style>
+
+</head>
+<body>
+
+<div class="background1">
+<div class="center">
+<table bgcolor="grey" id="corner1" align="center">
+
+<tr>
+	<td colspan="3" align="center"><font color="white"><b>ANIMAL PHOTOS</b></td>
+</tr>
+
+<tr>
+
+	<td><div><img src="http://s2.thingpic.com/images/6D/DeeDk24KVHmvK846DYZyFS2x.jpeg" id="corner2"></div> </td>
+    <td><div><img src="http://cdn.natgeotv.com.au/factsheets/thumbnails/01-waq-see-through-animals.adapt.1900.1.jpg" id="corner2"></div> </td>
+    <td><div><img src="https://www.iaspaper.net/wp-content/uploads/2017/10/elephant-essay.jpg" id="corner2"></div></td>
+</tr>
+
+<tr>
+	<td><div><img src="http://animals.sandiegozoo.org/sites/default/files/2016-09/animals_hero_panda.jpg" id="corner2"> </div></td>
+	<td><div><img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Koala_climbing_tree.jpg" id="corner2"></div></td>
+	<td><div><img src="https://static.pexels.com/photos/2971/farm-animals-horses.jpg" id="corner2"></div></td>
+</tr>
+
+<tr>
+	<td><div><img src="https://wwwblackpoolzooorguk-jrzviv0e.stackpathdns.com/sites/blackpoolzoo.org.uk/files/styles/carousel/public/animal/tiger1.png?itok=oCqGGfGm" id="corner2"></div></td>
+	<td><div><img src="http://uploads.neatorama.com/images/posts/962/90/90962/1466137824-0.jpg" id="corner2"></div></td>
+	<td><div><img src="https://i.pinimg.com/originals/29/f0/0a/29f00a178969177505de8852977c6385.jpg" id="corner2"></div></td>
+</tr>
+
+</table>
+</div>
+</div>	
+</body>
+</html>
+

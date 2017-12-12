@@ -1,0 +1,128 @@
+<html>
+
+<head>
+
+<title> HTML 2 </title>
+
+<body>
+
+<table border = "1" style="width:100%" height="100">
+ 
+  <tr>
+	<td align="left">left</td>
+	<td align="center">center</td>
+	<td align="right">right</td>
+  </tr>
+  
+  <tr>
+	  <td align="left">left</td>
+	  <td align="center">center</td>
+	  <td align="right">right</td>
+  </tr>
+  
+  <tr>
+	  <td align="left">left</td>
+	  <td align="center">center</td>
+	  <td align="right">right</td>
+  </tr>
+</table>
+<br><br><br>
+
+<table border="1" style="width:100%" height="100">
+    
+    <tr>
+    	<td colspan="6"> </td>
+    </tr>
+    
+    <tr>
+	    <td rowspan="4"> </td>
+	    <td> </td>
+	    <td> </td>
+	    <td> </td>
+	    <td> </td>
+	    <td> </td>
+    </tr>
+    
+    <tr>
+    <td> </td>
+    <td colspan="3"> </td>
+    <td> </td>
+    </tr>
+    
+    <tr>
+    <td> </td>
+    <td colspan="3"> </td>
+    <td> </td>
+    </tr>
+    
+    <tr>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    </tr>
+    
+    <tr>
+    <td colspan="6"> </td>
+    </tr>
+
+</table>
+<br><br><br>
+
+<table border="1" style="width:100%" height="100">
+
+<tr>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+
+<tr>
+<td rowspan="4"> </td>
+<td> </td>
+<td rowspan="4"> </td>
+</tr>
+
+<tr>
+<td> </td>
+</tr>
+
+<tr>
+<td> </td>
+</tr>
+
+<tr>
+<td> </td>
+</tr>
+
+<tr>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+
+</table>
+<br><br><br>
+
+<table border="1" style="width:100%" height="300">
+
+<tr>
+<td colspan="3" bgcolor="green" height="50"> </td>
+</tr>
+
+<tr>
+<td height="100"> </td>
+<td height="200" align="center"><img src="https://cosleyzoo.org/wp-content/uploads/blue_poison_dart_frog.jpg" alt="IMAGE OF A BLUE FROG" width="50%" height="200"> </td>
+<td height="100"> </td>
+</tr>
+
+<tr>
+<td colspan="3" bgcolor="blue" height="50"> </td>
+</tr>
+
+</table>
+
+</body>
+
+</html>
